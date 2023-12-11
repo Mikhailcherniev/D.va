@@ -36,7 +36,7 @@ margin-left: -10px;
   border: 1px solid rgb(255, 255, 255);
   position: relative;
   clip-path: circle(49.5%);
-  top: 2000000000000000000000000000000px;
+  
   /* to avoid a few glitch caused by overflow: hidden */
 }
 
@@ -150,7 +150,7 @@ margin-left: -10px;
 body{
   background-color:#ffaeff;
   font-family: arial;
-  margin: 0;
+  
   color: #fff;
 }
 
